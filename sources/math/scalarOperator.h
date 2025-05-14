@@ -1,0 +1,4 @@
+#ifndef SCALAROPERATOR_H
+#define SCALAROPERATOR_H
+
+#endif
